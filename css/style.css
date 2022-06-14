@@ -1,3 +1,15 @@
 .lead{
     font-size: 5rem;
 }
+.header{
+    background-color: aquamarine;
+}
+.container-fluid{
+    background-color: aquamarine;
+    padding: 15px;
+    margin-top: 0%;
+}
+
+.navbar{
+    padding: 0%;
+}
