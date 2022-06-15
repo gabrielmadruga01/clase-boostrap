@@ -14,10 +14,15 @@
     padding: 0%;
 }
 
+
 .imgNoticias{
     width: 90%;
 }
 .fotosGatos{
+    margin-bottom: 30px;
+}
+
+.videoGatos{
     margin-bottom: 30px;
 }
 
@@ -28,6 +33,4 @@
     }
 }
 
-.videoGatos{
-    margin-bottom: 30px;
-}
+
