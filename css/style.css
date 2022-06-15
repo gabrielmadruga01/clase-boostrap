@@ -15,5 +15,15 @@
 }
 
 .imgNoticias{
-    width: 400px;
+    width: 90%;
+}
+.fotosGatos{
+    margin-bottom: 30px;
+}
+
+@media (max-width:380px){
+    .noticiasMishis{
+        flex-direction: column;
+        align-items: center;
+    }
 }
