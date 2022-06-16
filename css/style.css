@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
 .lead{
     font-size: 5rem;
 }
@@ -13,10 +14,27 @@
 .navbar{
     padding: 0%;
 }
+p{
+    font-family: 'Lora', serif;
+    font-size: 20px;
+}
+
+h1{
+    font-family: 'Lora', serif;
+}
+h3{
+    font-family: 'Lora', serif;
+}
 
 
 .imgNoticias{
     width: 90%;
+    filter: grayscale(80%);
+}
+.imgNoticias:hover{
+    filter: grayscale(0%);
+    transition: 1s;
+    transform: scale(1.1);
 }
 .fotosGatos{
     margin-bottom: 30px;
